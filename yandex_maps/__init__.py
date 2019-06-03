@@ -1,0 +1,1 @@
+from yandex_maps.yandex_maps import Yandexmaps
