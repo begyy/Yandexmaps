@@ -1,5 +1,5 @@
 # Yandexmaps
-
+[![Downloads](https://pepy.tech/badge/yandexmaps)](https://pepy.tech/project/yandexmaps)
 ````
 pip install requests
 pip install yandexmaps
