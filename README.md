@@ -1,5 +1,6 @@
 # Yandexmaps
 [![Downloads](https://pepy.tech/badge/yandexmaps)](https://pepy.tech/project/yandexmaps)
+![Python application](https://github.com/begyy/Yandexmaps/workflows/Python%20application/badge.svg)
 ````
 pip install requests
 pip install yandexmaps
